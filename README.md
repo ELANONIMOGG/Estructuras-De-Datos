@@ -1,4 +1,5 @@
 # Estructuras de Datos - Pilas, Colas, Recursividad, Árboles, Listas
+### ![](https://raw.githubusercontent.com/ELANONIMOGG/ELANONIMOGG/main/Emote.png) 
 
 ## Descripción
 
@@ -10,7 +11,7 @@ Este repositorio contiene implementaciones de diversas estructuras de datos fund
 - **Árboles**
 - **Listas**
 
-Cada estructura de datos está acompañada de ejemplos prácticos y algoritmos comunes para facilitar la comprensión de su funcionamiento y uso en problemas de programación.
+Cada estructura de datos está acompañada de ejemplos prácticos, el uso de archivos TDA con los metodos implementados para hacer mas optimo el codigo y algoritmos comunes para facilitar la comprensión de su funcionamiento y uso en problemas de programación.
 
 ## Contenido del Repositorio
 
@@ -38,17 +39,17 @@ Cada estructura de datos está acompañada de ejemplos prácticos y algoritmos c
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/usuario/estructura-de-datos.git
+    git clone https://github.com/ELANONIMOGG/Estructuras-De-Datos.git
     ```
 
 2. Dirígete a la carpeta del repositorio:
     ```bash
-    cd estructura-de-datos
+    cd Estructuras-De-Datos
     ```
 
 3. Ejecuta los programas:
     ```bash
-    [Instrucciones específicas para ejecutar cada tipo de programa]
+    [En Powershell poner py Nombre.py o en terminal de linux con ./Nombre.py]
     ```
 
 ## Estructura del Proyecto
