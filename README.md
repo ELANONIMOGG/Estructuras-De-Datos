@@ -1,5 +1,5 @@
 # Estructuras de Datos - Pilas, Colas, Recursividad, Árboles, Listas
-### ![](https://raw.githubusercontent.com/ELANONIMOGG/ELANONIMOGG/main/Emote.png) 
+### ![](https://raw.githubusercontent.com/ELANONIMOGG/ELANONIMOGG/main/Elanonimo_github_profile.png) 
 
 ## Descripción
 
@@ -18,22 +18,22 @@ Cada estructura de datos está acompañada de ejemplos prácticos, el uso de arc
 1. **Pilas**  
    Implementación de una pila (stack) con las operaciones básicas como apilar, desapilar y ver el elemento superior. Incluye ejemplos de uso.
 
-2. **Colas**  
+2. **Colas**  **Proximamente**
    Implementación de una cola (queue) con las operaciones fundamentales como encolar, desencolar y obtener el frente de la cola. También incluye ejemplos.
 
-3. **Recursividad**  
+3. **Recursividad**  **Proximamente**
    Ejemplos y problemas resueltos utilizando la técnica de recursividad. Incluye funciones clásicas como la serie de Fibonacci, factorial y problemas de torres de Hanói.
 
-4. **Árboles**  
+4. **Árboles**  **Proximamente**
    Implementación de árboles binarios y árboles de búsqueda binaria (BST). Incluye operaciones de inserción, eliminación, búsqueda y recorridos (preorden, inorden, postorden).
 
-5. **Listas**  
+5. **Listas**  **Proximamente**
    Implementaciones de listas enlazadas simples y dobles. Incluye operaciones como inserción, eliminación y búsqueda en una lista enlazada.
 
 ## Requisitos
 
-- Lenguaje: [Indicar el lenguaje utilizado: Python, C++, Java, etc.]
-- [Cualquier otra dependencia, librerías o entorno necesario]
+- Lenguaje: [lenguaje utilizado: Python.]
+- [Requiere el archivo TDA de cada estructura ]
 
 ## Uso
 
